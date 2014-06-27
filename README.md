@@ -1,4 +1,1 @@
-Non-Blocking-Linked-List
-========================
-
-Non-Blocking-Linked-List
+Implementation of the algorithm for a non blocking linked list
